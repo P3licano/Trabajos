@@ -5,7 +5,7 @@
 
 Descargamos el recurso que sea correspondiente para nuestro S.O en el github oficial de [gophish](https://github.com/gophish/gophish/releases)
 
-![[Pasted image 20251029224349.png]]
+!(Pasted image 20251029224349.png)
 
 
 Creamos un directorio donde guardar el repo
