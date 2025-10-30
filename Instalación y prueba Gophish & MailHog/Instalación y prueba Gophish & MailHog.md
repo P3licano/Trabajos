@@ -158,7 +158,7 @@ sudo apt-get -y install golang-go
 go install github.com/mailhog/MailHog@latest
 ```
 
-![Captura](<img/Pasted image 20251029231537.png]]>)
+![Captura](<img/Pasted image 20251029231537.png>)
 
 Iniciamos MailHog
 
